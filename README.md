@@ -1,4 +1,4 @@
-hello-github
+hey-github
 ============
 
-test
+this is test repository.
